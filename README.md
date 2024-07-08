@@ -14,7 +14,7 @@ STEP 5: Add the CSS file.
 
 	STEP 5A: Navigate to the "Game Settings" tab and click the "Configure Settings" button.
  
-	STEP 5B: Under the "Custom System Builder" section for the option "CSS Style file". Here you will add the path to the CSS file ("cbr-pnk-styles.CSS").
+	STEP 5B: Under the "Custom System Builder" section, look for the option "CSS Style file". Here you will add the path to the CSS file ("cbr-pnk-styles.CSS").
  
 	NOTE: This will not show up in Foundry's list of files, even if it's there, nor can it be uploaded through Foundry. It must be added by typing in "CBR-PNK-CSB-Template/cbr-pnk-styles.css" (or whatever your path for it may be, depending on how you organize your User Data folder).
 
