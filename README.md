@@ -1,4 +1,5 @@
-CBR+PNK CUSTOM SYSTEM BUILD READ ME
+CBR+PNK CUSTOM SYSTEM BUILDER TEMPLATE - READ ME
+Created by Cactusdan
 
 Importing this template requires Custom System Builder to be installed on Foundry.
 
