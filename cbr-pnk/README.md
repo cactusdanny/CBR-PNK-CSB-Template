@@ -4,7 +4,7 @@ Importing this template requires Custom System Builder to be installed on Foundr
 
 Step 1: Install "Custom System Builder" and create a game using it as the System.
 
-Step 2: Copy and paste the whole folder for this project (CBS-templates) into whatever folder you have designated for Foundry's User Data.
+Step 2: Copy and paste the whole folder for this project (CBR-PNK-CSB-Template) into whatever folder you have designated for Foundry's User Data.
 
 Step 3: Login to the game as the Gamemaster.
 
@@ -16,7 +16,7 @@ Step 5: Add the CSS file.
  
 	Step 5B: Under the "Custom System Builder" section you will add the path to the CSS file ("cbr-pnk-styles.CSS") under "CSS Style file"
  
-	Note: This will not show up in Foundry's list of files, even if it's there, nor can it be uploaded through Foundry. It must be added by typing in "CSB-templates/cbr-pnk/cbr-pnk-styles.css" (or whatever your path for it may be, depending on how you organize your User Data folder)
+	Note: This will not show up in Foundry's list of files, even if it's there, nor can it be uploaded through Foundry. It must be added by typing in "CBR-PNK-CSB-Template/cbr-pnk/cbr-pnk-styles.css" (or whatever your path for it may be, depending on how you organize your User Data folder)
 
 Step 6: Add in the Fonts. 
 
