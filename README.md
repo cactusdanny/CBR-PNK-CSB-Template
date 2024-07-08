@@ -12,7 +12,7 @@ STEP 4: Go to the "Game Settings" tab and click the "Import templates JSON" butt
 
 STEP 5: Add the CSS file.
 
-	STEP 5A: by going to the "Game Settings" tab and clicking the "Configure Settings Button". 
+	STEP 5A: Navigate to the "Game Settings" tab and click the "Configure Settings Button". 
  
 	STEP 5B: Under the "Custom System Builder" section you will add the path to the CSS file ("cbr-pnk-styles.CSS") under "CSS Style file"
  
