@@ -8,7 +8,7 @@ STEP 2: Copy and paste the whole folder for this project (CBR-PNK-CSB-Template) 
 
 STEP 3: Login to the game as the Gamemaster.
 
-STEP 4: Go to the "Game Settings" tab and click the "Import templates JSON" button. Select the file "cbr-pnk-CSB.json" from the folder you pasted into your User Data. the game will reload to finish installing the template.
+STEP 4: Go to the "Game Settings" tab and click the "Import templates JSON" button. Select the file "cbr-pnk-CSB.json" from the folder you pasted into your User Data. The game will reload to finish installing the template.
 
 STEP 5: Add the CSS file.
 
