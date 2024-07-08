@@ -26,7 +26,10 @@ STEP 6: Add in the Fonts.
  
 	STEP 6C: Click the "Configure Additional Fonts" button.
  
-	STEP 6D: Fill in the following fonts one-by-one being sure to hit the "+ Add Font" button after each. They will appear in the list at the top of the Configure Additional Fonts window. Do not deviate from the following structure as it will break the CSS styling. NOTE: All font files can be found in the CBR-PNK-CSB-Template/Fonts folder.
+	STEP 6D: Fill in the following fonts one-by-one being sure to hit the "+ Add Font" button after each. 
+	They will appear in the list at the top of the Configure Additional Fonts window. 
+	Do not deviate from the following structure as it will break the CSS styling. 
+	NOTE: All font files can be found in the CBR-PNK-CSB-Template/Fonts folder.
 
 		Font 1: Cygnito Mono
 			Font Family: Cygnito Mono
