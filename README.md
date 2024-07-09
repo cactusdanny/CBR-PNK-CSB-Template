@@ -7,7 +7,7 @@ Template created by Cactusdan for [Custom System Builder](https://gitlab.com/cus
 
 Example:
 
-![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/ad4f1ca6-c427-4fe5-8a5e-2bb762e23577)
+![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/2ed1188d-a9e9-4e8b-90b7-1b0edaffa0a8)
 
 Importing this template requires Custom System Builder to be installed on Foundry.
 
