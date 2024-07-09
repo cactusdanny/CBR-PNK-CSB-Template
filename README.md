@@ -1,6 +1,8 @@
 CBR+PNK CUSTOM SYSTEM BUILDER TEMPLATE - READ ME DOCUMENT
 Created by Cactusdan
 
+![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/ad4f1ca6-c427-4fe5-8a5e-2bb762e23577)
+
 Importing this template requires Custom System Builder to be installed on Foundry.
 
 STEP 1: Install "Custom System Builder" and create a game using it as the System.
