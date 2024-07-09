@@ -46,7 +46,7 @@ NOTE: Font file can be found in the "CBR-PNK-CSB-Template/Fonts" folder.
 
 # Recommended Steps
 
-1. In the character sheet titled "Runner" go into the "Configure Sheet Display" settings and update the default width/height to 900 and the profile picture width/height 250.
+1. In the character sheet titled "Runner" go into the "Configure Sheet Display" settings and update the default width/height to 900 and the profile picture width/height to 250.
 2. In "Configure Settings" increase Font Size to 7 or 8 (the default font comes in a bit small)
 3. I use the following Modules for my game - Better Dice Formulas, Custom Nameplates, Dice So Nice, Dice Tray, Global Progress Clocks, Monk's Active Tile Triggers, PNP - Pointer and Pings! (BETA), and Pause Customizer.
 4. See my other repository for CBR+PNK Image Assets that includes Landing Page and Character Token images and image templates for putting extra polish on the look and feel of the system. (COMING SOON!)
