@@ -1,4 +1,4 @@
-CBR+PNK CUSTOM SYSTEM BUILDER TEMPLATE - READ ME
+CBR+PNK CUSTOM SYSTEM BUILDER TEMPLATE - READ ME DOCUMENT
 Created by Cactusdan
 
 Importing this template requires Custom System Builder to be installed on Foundry.
@@ -53,3 +53,11 @@ STEP 6: Add in the Fonts.
 			Font Weight: Regular 400
 			Font Style: Normal
 			Font File: cbrpnk_icons.ttf
+
+RECOMMENDED STEPS
+
+STEP 7: In the character sheet titled "Runner" go into the "Configure Sheet Display" settings and update the default width/height to 750 and the profile picture width/height 250.
+
+STEP 8: See my other repository for CBR+PNK Image Assets that includes Landing Page and Character Token images and image templates for putting extra polish on the look and feel of the system. (COMING SOON!)
+
+STEP 9: I use the following Modules for my game - Better Dice Formulas, Custom Nameplates, Dice So Nice, Dice Tray, Global Progress Clocks, Monk's Active Tile Triggers, PNP - Pointer and Pings! (BETA), and Pause Customizer.
