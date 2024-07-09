@@ -5,11 +5,13 @@
 
 Template created by Cactusdan for [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder)
 
+Custom System Builder is required for this template to be installed on Foundry.
+
 Example:
 
 ![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/2ed1188d-a9e9-4e8b-90b7-1b0edaffa0a8)
 
-Importing this template requires Custom System Builder to be installed on Foundry.
+(The character token in the above example was created using my template token template. Tokens will come in however you create them.)
 
 # Installation
 
