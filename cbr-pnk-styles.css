@@ -24,6 +24,7 @@ img.custom-system-item-container-image {display:none;}
 a.content-link {background: #f9e80e; color: #000;}
 .look input[type="text"] {background: #fff; border-radius: 0;}
 #logo {content:url(https://cabinetofcuriosities.games/assets/images/image01.png);}
+li.folder > .folder-header h3 {font-size: 21px;}
 
 /* Actor Styles */
 .actor {font-family: 'VT323', monospace; font-size: 18px;}
@@ -84,8 +85,10 @@ tr.custom-system-dynamicRow td {background-image: repeating-linear-gradient(-45d
 .item .sheet-header {background: #eeeeef; border-bottom: 1px solid #000; padding-bottom: 10px; margin-bottom: 10px;}
 
 /* Journal Styles */
-.sheet.journal-entry {font-family: 'VT323', monospace; font-size: 18px;}
+.journalentry {font-family: 'VT323', monospace; font-size: 21px;}
+.sheet.journal-entry {font-family: 'VT323', monospace; font-size: 21px;}
 .sheet.journal-entry .journal-sidebar {background: #000;}
+.sheet.journal-entry .pages-list .page-heading {font-size: 21px;}
 .sheet.journal-entry .pages-list .page-heading .page-title:hover {text-shadow: 0 0 8px #fff;}
 .sheet.journal-entry .pages-list .directory-item.active:first-of-type, .sheet.journal-entry .pages-list .directory-item:not(.active) + .active {border-top: 1px solid #00b2dd;}
 .directory .directory-item.active {border-color: #00b2dd;}
