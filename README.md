@@ -18,7 +18,7 @@ Importing this template requires Custom System Builder to be installed on Foundr
 3. Login to the game as the Gamemaster.
 4. Go to the "Game Settings" tab and click the "Import templates JSON" button.  Select the file "cbr-pnk-CSB.json" from the folder you pasted into your User Data.  The game will reload to finish installing the template.
 5. Add the CSS file (See CSS chapter below for more details).
-6. Add in the fonts (See Fonts chapter below for more details).
+6. Add in the icon font (See Fonts chapter below for more details).
 
 # CSS
 
@@ -33,19 +33,7 @@ NOTE: This will not show up in Foundry's list of files, even if it's there, nor 
 3. Click the "Configure Additional Fonts" button.
 4. Fill in the following fonts one-by-one being sure to hit the "+ Add Font" button after each. They will appear in the list at the top of the Configure Additional Fonts window.  Do not deviate from the following structure as it will break the CSS styling. 
 
-NOTE: All font files can be found in the CBR-PNK-CSB-Template/Fonts folder.
-
-	Font 1: Cygnito Mono
-		Font Family: Cygnito Mono
-		Font Weight: Regular 400
-		Font Style: Normal
-		Font File: Cygnito Mono.otf
-
-	Font 2: Monorama
-		Font Family: Monorama
-		Font Weight: SemiBold 600
-		Font Style: Normal
-		Font File: Monorama-Medium.ttf
+NOTE: Font files can be found in the "CBR-PNK-CSB-Template/Fonts" folder.
 
 	Font 3: CBR+PNK Icons
 		Font Family: cbrpnkicons
@@ -65,7 +53,3 @@ This work is based on [Blades in the Dark](http://www.bladesinthedark.com/), pro
 Published independently under the 'CBR+PNK Compatibility License' with no association with Emanoel Melo, The Cabinet of Curiosities, Mythworks, or other official publishers of CBR+PNK.
 
 'CBR+PNK' and its associated logos and iconography are copyright Emanoel Melo and are used with permission.
-
-[Cygnito Mono](https://www.behance.net/gallery/76048171/Cygnito-Mono-New-Modular-Font) by Radinal Riki
-
-[Monorama](https://www.behance.net/gallery/38542901/Monorama) by Deni Anggara

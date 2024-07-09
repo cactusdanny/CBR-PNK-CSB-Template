@@ -1,10 +1,14 @@
 /* CBR+PNK Custom System Builder Style Sheet - built by Cactusdan*/
+
+/* Alternative Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=VT323&display=swap');
+
 /* General Styles */
-body {font-family: 'Cygnito Mono';}
+body {font-family: 'VT323', monospace;}
 * {scrollbar-width: thin; scrollbar-color: #00b2dd #111;}
 .app {background: #000;}
 .directory .directory-header .header-search input {background-color: #fff;}
-button {background: #fff; font-family: 'Cygnito Mono'; border:none;}
+button {background: #fff; font-family: 'VT323', monospace; font-size: 18px; border:none;}
 #sidebar-tabs {border-bottom: 1px solid #00b2dd; box-shadow: 0 0 2px #00b2dd}
 #sidebar-tabs > .item.active {border: 1px solid #00b2dd; box-shadow: 0 0 5px inset #00b2dd;}
 .tabs .item.active {text-shadow: 0 0 5px #00b2dd;}
@@ -13,7 +17,7 @@ a:hover {text-shadow: 0 0 6px #fff; transition: ease-in-out 0.25s;}
 #chat-controls i.fas {color: #fff;}
 #chat-controls .roll-type-select {background: #fff; border-radius: 0;}
 .chat-message {background: #fff;}
-.chat-message .message-header .message-sender {font-family:'Monorama';}
+.chat-message .message-header .message-sender {font-family:'Monorama', 'Kode Mono', monospace; font-weight: 600; text-transform: uppercase;}
 .dice-tooltip .dice-rolls .roll.failure, .dice-tooltip .dice-rolls .roll.min {color:#000; filter: sepia(1) hue-rotate(17deg) saturate(3);}
 .dice-tooltip .dice-rolls .roll.success, .dice-tooltip .dice-rolls .roll.max {color:#000; filter: sepia(1) hue-rotate(160deg) saturate(2);}
 img.custom-system-item-container-image {display:none;}
@@ -22,8 +26,8 @@ a.content-link {background: #f9e80e; color: #000;}
 #logo {content:url(https://cabinetofcuriosities.games/assets/images/image01.png);}
 
 /* Actor Styles */
-.actor {font-family: 'Cygnito Mono';}
-.charname {font-family: 'Monorama'}
+.actor {font-family: 'VT323', monospace; font-size: 18px;}
+.charname {font-family: 'Monorama', 'Kode Mono', monospace; font-weight: 600; text-transform: uppercase;}
 .actor section.window-content {background: #fff;}
 .actor header.sheet-header {background: #f9e80e; padding: 10px;}
 .actor .profile-img-container {border: none;}
@@ -34,12 +38,12 @@ input[name="name"], input[name="system.props.angle"] {background: #fff; border-r
 input[name="system.props.angle"] {margin-left:5px;}
 .approachesSkillsPanel {background:#eeeeef;padding:10px 0;}
 .Hunted {background: #000; color: #f9e80e; padding: 5px;}
-.approaches-label {font-family: 'Monorama'; font-size:20px;}
-.approach-type {font-family: 'Monorama'; font-size: 16px;background:#000; color:#fff; padding:10px;}
+.approaches-label {font-family: 'Monorama', 'Kode Mono', monospace; font-size:20px; font-weight: 600; text-transform: uppercase;}
+.approach-type {font-family: 'Monorama', 'Kode Mono', monospace; font-size: 16px; font-weight: 600; text-transform: uppercase; background:#000; color:#fff; padding:10px;}
 .aggressionGlitchy,.smartnessGlitchy,.empathyGlitchy,.cautionGlitchy {background: #000; color: #fff; padding: 0 10px;}
 .approach-glitch-label {padding-left:10px; background-image: repeating-linear-gradient(-45deg, #f9e80e 5px, #f9e80e 10px, transparent 12px, transparent 20px);}
-.skill-type {font-family: 'Monorama'; font-size: 15px;}
-.harmLabels {font-size: 10px;}
+.skill-type {font-family: 'Monorama', 'Kode Mono', monospace; font-size: 15px; font-weight: 600; text-transform: uppercase;}
+.harmLabels {font-size: 14px;}
 .credsPanel {background: #f4ed2f; padding: 5px;}
 .loadPanel {padding-left:10px; background-image: repeating-linear-gradient(-45deg, #eeeeef 5px, #eeeeef 7px, transparent 7px, transparent 10px);}
 .penalty-label {padding-left:10px; background-image: repeating-linear-gradient(-45deg, #f9e80e 5px, #f9e80e 10px, transparent 12px, transparent 20px);}
@@ -47,7 +51,7 @@ input[name="system.props.angle"] {margin-left:5px;}
 .lvlOnePenalty, .lvlTwoPenalty {font-family: 'cbrpnkicons';}
 tr.custom-system-dynamicRow td {background-image: repeating-linear-gradient(-45deg, #eeeeef 5px, #eeeeef 7px, transparent 7px, transparent 10px);}
 .debt-cred-label {background: #000; color: #f9e80e; padding: 5px;}
-.attuneCallout {font-size: 10px;}
+.attuneCallout {font-size: 14px;}
 .details {background:#fff; border: 1px solid rgb(122, 121, 113); padding: 10px; margin-top:15px;}
 .actor input[type="checkbox"]{
     -webkit-appearance: initial;
@@ -75,12 +79,12 @@ tr.custom-system-dynamicRow td {background-image: repeating-linear-gradient(-45d
 }
 
 /* Item Styles */
-.item {font-family: 'Cygnito Mono';}
+.item {font-family: 'VT323', monospace; font-size: 18px;}
 .item .window-content {background: #fff;}
 .item .sheet-header {background: #eeeeef; border-bottom: 1px solid #000; padding-bottom: 10px; margin-bottom: 10px;}
 
 /* Journal Styles */
-.sheet.journal-entry {font-family: 'Cygnito Mono';}
+.sheet.journal-entry {font-family: 'VT323', monospace; font-size: 18px;}
 .sheet.journal-entry .journal-sidebar {background: #000;}
 .sheet.journal-entry .pages-list .page-heading .page-title:hover {text-shadow: 0 0 8px #fff;}
 .sheet.journal-entry .pages-list .directory-item.active:first-of-type, .sheet.journal-entry .pages-list .directory-item:not(.active) + .active {border-top: 1px solid #00b2dd;}
@@ -90,7 +94,7 @@ tr.custom-system-dynamicRow td {background-image: repeating-linear-gradient(-45d
 .sheet.journal-entry .pages-list .page-heading .page-number {color: #f9e80e;}
 .sheet.journal-entry .pages-list .active .page-heading .page-number {color: #fff;}
 .sheet.journal-entry .journal-entry-content {background: #fff;}
-.journal-header .title, .journal-entry-content h1, .journal-entry-content h2, .journal-entry-content h3, .journal-entry-content h4 {font-family: 'Monorama'; border-bottom: none;}
+.journal-header .title, .journal-entry-content h1, .journal-entry-content h2, .journal-entry-content h3, .journal-entry-content h4 {font-family: 'Monorama', 'Kode Mono', monospace; font-weight: 600; text-transform: uppercase; border-bottom: none;}
 .icons {font-family: 'cbrpnkicons';}
 .blue-highlight {background: #00b2dd; color: #fff; padding: 0 3px;}
 .black-highlight {background: #000; color: #fff; padding: 0 3px;}
