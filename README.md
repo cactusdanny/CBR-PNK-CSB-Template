@@ -34,7 +34,7 @@ NOTE: The CSS file will not show up in Foundry's list of files, even if it's the
 1. While in your Custom System Builder game, go to "Game Settings".
 2. Click the "Configure Settings" button.
 3. Click the "Configure Additional Fonts" button.
-4. Fill in the following font being sure to hit the "+ Add Font" to add it to the list. Do not deviate from the following as it will break the CSS styling. 
+4. Fill in the following font info, being sure to hit the "+ Add Font" once done to add it to the game. Do not deviate from the following as it will break the CSS styling. 
 
 NOTE: Font file can be found in the "CBR-PNK-CSB-Template/Fonts" folder.
 
