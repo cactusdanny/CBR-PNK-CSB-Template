@@ -22,7 +22,6 @@ a:hover {text-shadow: 0 0 6px #fff; transition: ease-in-out 0.25s;}
 .dice-tooltip .dice-rolls .roll.success, .dice-tooltip .dice-rolls .roll.max {color:#000; filter: sepia(1) hue-rotate(160deg) saturate(2);}
 img.custom-system-item-container-image {display:none;}
 a.content-link {background: #f9e80e; color: #000;}
-.look input[type="text"] {background: #fff; border-radius: 0;}
 #logo {content:url(https://cabinetofcuriosities.games/assets/images/image01.png);}
 li.folder > .folder-header h3 {font-size: 21px;}
 
@@ -32,6 +31,7 @@ li.folder > .folder-header h3 {font-size: 21px;}
 .actor section.window-content {background: #fff;}
 .actor header.sheet-header {background: #f9e80e; padding: 10px;}
 .actor .profile-img-container {border: none;}
+.pronouns input[type="text"], .look input[type="text"] {background: #fff; border-radius: 0; margin-top: 5px;}
 .custom-system-template-select > select {margin-left: 0px;}
 .angle {margin-top: 5px;}
 .actor select {border-radius:0; background: #fff; }
