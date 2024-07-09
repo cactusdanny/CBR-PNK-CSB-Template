@@ -24,6 +24,7 @@ Importing this template requires Custom System Builder to be installed on Foundr
 
 1. Navigate to the "Game Settings" tab and click the "Configure Settings" button.
 2. Under the "Custom System Builder" section, look for the option "CSS Style file". Here you will add the path to the CSS file ("cbr-pnk-styles.CSS").
+
 NOTE: This will not show up in Foundry's list of files, even if it's there, nor can it be uploaded through Foundry. It must be added by typing in "CBR-PNK-CSB-Template/cbr-pnk-styles.css" (or whatever your path for it may be, depending on how you organize your User Data folder).
 
 # Fonts
@@ -31,9 +32,9 @@ NOTE: This will not show up in Foundry's list of files, even if it's there, nor 
 1. While in your Custom System Builder game, go to "Game Settings".
 2. Click the "Configure Settings" button.
 3. Click the "Configure Additional Fonts" button.
-4. Fill in the following fonts one-by-one being sure to hit the "+ Add Font" button after each. They will appear in the list at the top of the Configure Additional Fonts window.  Do not deviate from the following structure as it will break the CSS styling. 
+4. Fill in the following font being sure to hit the "+ Add Font" to add it to the list. Do not deviate from the following as it will break the CSS styling. 
 
-NOTE: Font files can be found in the "CBR-PNK-CSB-Template/Fonts" folder.
+NOTE: Font file can be found in the "CBR-PNK-CSB-Template/Fonts" folder.
 
 	Font 3: CBR+PNK Icons
 		Font Family: cbrpnkicons
