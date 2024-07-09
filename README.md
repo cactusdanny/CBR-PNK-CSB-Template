@@ -9,7 +9,7 @@ Template created by Cactusdan for [Custom System Builder](https://gitlab.com/cus
 
 Example:
 
-![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/2ed1188d-a9e9-4e8b-90b7-1b0edaffa0a8)
+![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/c986c35c-88f4-4bed-953e-a022cfdc0765)
 
 *(The character token in the above example was created using my CBR+PNK token template (COMING SOON). Tokens will come in however you create them.)*
 
