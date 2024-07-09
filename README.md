@@ -19,8 +19,8 @@ Example:
 2. Copy and paste the whole folder for this project (CBR-PNK-CSB-Template) into whatever folder you have designated for Foundry's User Data.
 3. Login to the game as the Gamemaster.
 4. Go to the "Game Settings" tab and click the "Import templates JSON" button.  Select the file "cbr-pnk-CSB.json" from the folder you pasted into your User Data.  The game will reload to finish installing the template.
-5. Add the CSS file (See CSS chapter below for more details).
-6. Add in the icon font (See Fonts chapter below for more details).
+5. Add the CSS file (See CSS section below for more details).
+6. Add in the icon font (See Font section below for more details).
 
 # CSS
 
@@ -29,7 +29,7 @@ Example:
 
 NOTE: This will not show up in Foundry's list of files, even if it's there, nor can it be uploaded through Foundry. It must be added by typing in "CBR-PNK-CSB-Template/cbr-pnk-styles.css" (or whatever your path for it may be, depending on how you organize your User Data folder).
 
-# Fonts
+# Font
 
 1. While in your Custom System Builder game, go to "Game Settings".
 2. Click the "Configure Settings" button.
