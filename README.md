@@ -1,7 +1,11 @@
 
 # CBR+PNK for FoundryVTT's Custom System Builder
+
 [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-core) was created by Emanoel Melo
+
 Template created by Cactusdan for [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder)
+
+Example:
 
 ![image](https://github.com/cactusdanny/CBR-PNK-CSB-Template/assets/62324343/ad4f1ca6-c427-4fe5-8a5e-2bb762e23577)
 
