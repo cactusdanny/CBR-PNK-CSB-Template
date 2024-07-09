@@ -67,4 +67,5 @@ Published independently under the 'CBR+PNK Compatibility License' with no associ
 'CBR+PNK' and its associated logos and iconography are copyright Emanoel Melo and are used with permission.
 
 [Cygnito Mono](https://www.behance.net/gallery/76048171/Cygnito-Mono-New-Modular-Font) by Radinal Riki
+
 [Monorama](https://www.behance.net/gallery/38542901/Monorama) by Deni Anggara
